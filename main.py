@@ -42,3 +42,8 @@ if __name__ == "__main__":
     print(movie)
     print(movie["title"])
 
+
+if __name__ == "__main__":
+    movie = get_movie("Marty Supreme")
+    print(movie)
+    print(movie["title"])
